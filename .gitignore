@@ -110,7 +110,7 @@ answer2/*
 log/*
 result/*
 training_checkpoints/*
-20191017_HW2.pdf/*
+20191017_HW2.pdf
 *.png
 *.ipynb
 debug.log
